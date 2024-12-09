@@ -48,4 +48,4 @@ The project aims to address the challenge of summarizing lengthy documents such 
 
 Watch the project demonstration on YouTube:
 
-[![Project Demo]( https://youtu.be/i3tA6Vbo6Cc )
+[![Project Demo](https://img.youtube.com/vi/i3tA6Vbo6Cc/maxresdefault.jpg)](https://youtu.be/i3tA6Vbo6Cc?si=flJZa_oT9Mhd46YF)
